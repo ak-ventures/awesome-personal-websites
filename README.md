@@ -4,7 +4,7 @@ A list of personal pages for inspiration.
 
 ## Developers
 
-- [Caleb Porzio]](https://calebporzio.com/)
+- [Caleb Porzio](https://calebporzio.com/)
 - [David A. Lindahl](https://davidalindahl.com/)
 - [Jesse Schutt](https://jesseschutt.com/)
 - [Jonathan Reinink](https://reinink.ca/)
