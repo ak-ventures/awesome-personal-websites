@@ -12,5 +12,6 @@ A list of personal pages for inspiration.
 - [Jesse Schutt](https://jesseschutt.com/)
 - [Jonathan Reinink](https://reinink.ca/)
 - [Matt Stauffer](https://mattstauffer.com/)
+- [Michael Dyrynda](https://dyrynda.com.au/)
 - [Mohamed Said](https://divinglaravel.com/)
 - [Nuno Maduro](https://nunomaduro.com/)
