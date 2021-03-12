@@ -6,6 +6,7 @@ A list of personal pages for inspiration.
 
 - [Adam Wathan](https://adamwathan.me/)
 - [Caleb Porzio](https://calebporzio.com/)
+- [Daniel Coulbourne](https://www.coulb.com/)
 - [David A. Lindahl](https://davidalindahl.com/)
 - [David Hemphill](https://davidhemphill.com/)
 - [Evan You](https://evanyou.me/)
