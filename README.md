@@ -9,10 +9,12 @@ A list of personal pages for inspiration.
 - [Caleb Porzio](https://calebporzio.com/)
 - [Chris Fidao](https://fideloper.com/)
 - [Christoph Rumpel](https://christoph-rumpel.com/)
+- [Christopher Pitt](https://assertchris.io/)
 - [Daniel Coulbourne](https://www.coulb.com/)
 - [David A. Lindahl](https://davidalindahl.com/)
 - [David Hemphill](https://davidhemphill.com/)
 - [Evan You](https://evanyou.me/)
+- [Franz Liedke](https://www.franzliedke.de/)
 - [Freek Van der Herten](https://freek.dev/)
 - [Jacob Bennett](http://jakebennett.net/)
 - [Jack Ellis](https://jackellis.me/)
@@ -45,4 +47,4 @@ A list of personal pages for inspiration.
 
 ## Web designers
 
-- [Steve Schoger]https://www.steveschoger.com/
+- [Steve Schoger](https://www.steveschoger.com/)
