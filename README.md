@@ -52,6 +52,7 @@ A list of personal pages for inspiration.
 
 ## Web designers
 
+- [Jack McDade](https://jackmcdade.com/)
 - [Steve Schoger](https://www.steveschoger.com/)
 
 ## Venture capitalists
