@@ -13,7 +13,9 @@ A list of personal pages for inspiration.
 - [Daniel Coulbourne](https://www.coulb.com/)
 - [David A. Lindahl](https://davidalindahl.com/)
 - [David Hemphill](https://davidhemphill.com/)
+- [Dries Vints](https://driesvints.com/)
 - [Evan You](https://evanyou.me/)
+- [Eric Barnes](https://ericlbarnes.com/)
 - [Franz Liedke](https://www.franzliedke.de/)
 - [Freek Van der Herten](https://freek.dev/)
 - [Jacob Bennett](http://jakebennett.net/)
@@ -24,6 +26,7 @@ A list of personal pages for inspiration.
 - [John Bonaccorsi](https://imjohnbon.com/)
 - [Jonathan Reinink](https://reinink.ca/)
 - [Jose Soto](https://josecanhelp.com/)
+- [Hannes Van De Vreken](https://hannesvdvreken.com/)
 - [Keith Damiani](https://keithdamiani.com/)
 - [Marcel Pociot](https://pociot.dev/)
 - [Matt Stauffer](https://mattstauffer.com/)
@@ -31,6 +34,7 @@ A list of personal pages for inspiration.
 - [Miguel Piedrafita](https://miguelpiedrafita.com/)
 - [Mohamed Said](https://divinglaravel.com/)
 - [Nick Canzoneri](https://nickcanzoneri.com/)
+- [Nils Adermann](https://www.naderman.de/)
 - [Nuno Maduro](https://nunomaduro.com/)
 - [Rachel Andrew](https://rachelandrew.co.uk/)
 - [Samantha Geitz](https://samanthageitz.com/)
@@ -40,6 +44,7 @@ A list of personal pages for inspiration.
 - [Tammy Robinson](https://tammyrobinson.me/)
 - [Tim MacDonald](https://timacdonald.me/)
 - [TJ Miller](https://www.tjmiller.me/)
+- [Tom Schlick](https://tomschlick.com/)
 
 ## Makers/SaaS people
 
@@ -48,3 +53,13 @@ A list of personal pages for inspiration.
 ## Web designers
 
 - [Steve Schoger](https://www.steveschoger.com/)
+
+## Venture capitalists
+
+- [Andrew Chen](https://andrewchen.com/)
+- [David Cohen](https://davidgcohen.com/)
+- [Fred Wilson](https://avc.com/)
+- [Hunter Walk](https://hunterwalk.com/)
+- [Paul Graham](http://www.paulgraham.com/)
+- [Sam Altman](https://blog.samaltman.com/)
+- [Tomasz Tunguz](https://tomtunguz.com/)
