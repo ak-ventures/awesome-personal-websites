@@ -1,4 +1,5 @@
-# awesome-personal-pages
+# Awesome personal websites
+
 A list of personal pages for inspiration.
 
 
